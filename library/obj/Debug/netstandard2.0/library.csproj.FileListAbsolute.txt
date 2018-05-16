@@ -1,0 +1,8 @@
+/Users/tungtram/tung/netcore/first_project/library/bin/Debug/netstandard2.0/library.deps.json
+/Users/tungtram/tung/netcore/first_project/library/bin/Debug/netstandard2.0/library.dll
+/Users/tungtram/tung/netcore/first_project/library/bin/Debug/netstandard2.0/library.pdb
+/Users/tungtram/tung/netcore/first_project/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
+/Users/tungtram/tung/netcore/first_project/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
+/Users/tungtram/tung/netcore/first_project/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
+/Users/tungtram/tung/netcore/first_project/library/obj/Debug/netstandard2.0/library.dll
+/Users/tungtram/tung/netcore/first_project/library/obj/Debug/netstandard2.0/library.pdb
